@@ -1,0 +1,3 @@
+[submodule "public/xwing"]
+	path = public/xwing
+	url = ssh://git@github.com/jcavanagh/xwingstats
